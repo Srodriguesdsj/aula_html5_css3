@@ -1,0 +1,39 @@
+body {
+background-color:#616D6B;
+margin-left: 600px;
+margin-right: 200px;
+
+}
+
+header {
+  margin-top: 70px;
+}
+
+
+
+h1 {
+  color: red;
+  font-family: fantasy;
+
+
+
+}
+
+CLIENTES {
+color:red;
+}
+
+
+h2 {
+  font-family: fantasy;
+}
+
+p {
+  font-size: 18px;
+}
+
+.img_padrao {
+  margin-left: 130px;
+  margin-bottom: 20px;
+  width: 300px;
+}
